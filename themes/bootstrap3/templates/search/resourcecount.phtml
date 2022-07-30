@@ -1,0 +1,82 @@
+    
+<?php
+$url="http://localhost:8983/solr/biblio/select?facet.field=institution&df=institution&distrib=false&f.institution.facet.mincount=1&fl=uid&start=0&fsv=true&f.institution.facet.limit=-1&facet=true&indent=true&q.op=OR&q=*%3A*&wt=json"; 
+$urlcountry="http://localhost:8983/solr/biblio/select?facet.field=countrycode&df=countrycode&distrib=false&f.countrycode.facet.mincount=1&fl=uid&start=0&fsv=true&f.countrycode.facet.limit=-1&facet=true&indent=true&q=*%3A*&wt=json"; 
+$urllibrary="http://localhost:8983/solr/biblio/select?facet.field=databasecode&df=databasecode&distrib=false&f.databasecode.facet.mincount=1&fl=uid&start=0&fsv=true&f.databasecode.facet.limit=-1&facet=true&indent=true&q=*%3A*&wt=json";
+$urlonline="http://localhost:8983/solr/biblio/select?indent=true&q.op=OR&q=access%3AOnline";
+$content = file_get_contents($url);
+$contentcountry = file_get_contents($urlcountry);
+$contentlibrary = file_get_contents($urllibrary);
+$contentonline = file_get_contents($urlonline);
+$objeto = json_decode($content, true);
+$objetocountry = json_decode($contentcountry, true);
+$objectlibrary = json_decode($contentlibrary, true, \JSON_UNESCAPED_UNICODE);
+$objectonline = json_decode($contentonline, true);
+$total = $objeto['response']['numFound'];
+$totalonline = $objectonline['response']['numFound'];
+$institution = $objeto['facet_counts']['facet_fields']['institution'];
+$objetocountry = $objetocountry['facet_counts']['facet_fields']['countrycode'];
+$library = $objectlibrary['facet_counts']['facet_fields']['databasecode'];
+$totalInst = 0; $countries = array(['Country']); $cont = 0; $totallib = 0; $class=""; 
+
+
+foreach($institution as $inst)
+{
+  if(is_string($inst))
+  $totalInst++;
+}
+
+foreach($objetocountry as $contr)
+{
+  if(is_string($contr))
+  array_push($countries, array($contr)); 
+}
+$countries=array_unique($countries, SORT_REGULAR);
+
+foreach($library as $lib)
+{
+  if(is_string($lib))
+  $totallib++;
+}
+
+?>
+
+
+
+<div class="row">
+  <div class="col-lg-12">
+      <div class="count-resources"> 
+        <a href="/vufind/Search/Results?lookfor=&type=AllFields" >  
+          <h3 >Total recursos</h3>
+          <h2 class="number"><?=$total?></h2> 
+        </a>     
+      </div>
+      <div class="count-resources"> 
+        <a href="/vufind/Search/Results?type=AllFields&filter%5B%5D=access%3AOnline" >  
+          <h3 >Texto completo</h3>
+          <h2 class="number"><?=$totalonline?></h2> 
+        </a>     
+      </div>
+    
+      <div class="count-resources"> 
+        <a class="facet narrow-toggle all-facets" data-lightbox href="/vufind/Search/FacetList?type=AllFields&amp;facet=institution&amp;facetop=AND&amp;facetexclude=0" rel="nofollow">
+          <h3>Instituciones</h3>
+          <h2 class="number"><?=$totalInst?></h2>   
+        </a>      
+      </div>
+      <div class="count-resources">   
+        <a class="facet narrow-toggle all-facets" data-lightbox href="/vufind/Search/FacetList?type=AllFields&amp;facet=databasecode&amp;facetop=AND&amp;facetexclude=0" rel="nofollow">
+          <h3>Bibliotecas</h3>
+          <h2 class="number"><?=$totallib?></h2> 
+        </a>         
+      </div>
+      <div class="count-resources"> 
+      <a class="facet narrow-toggle all-facets" data-lightbox href="/vufind/Search/FacetList?type=AllFields&amp;facet=country&amp;facetop=AND&amp;facetexclude=0" rel="nofollow">
+        <h3>Países</h3>
+        <h2 class="number"><?=count($countries)-1?></h2>
+      </a>   
+      </div>
+  </div>
+
+</div>
+ 

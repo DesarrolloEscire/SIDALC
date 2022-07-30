@@ -1,0 +1,54 @@
+{
+    "name": "laminas/laminas-paginator-adapter-laminasdb",
+    "description": "laminas-db adapters for laminas-paginator",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "laminas",
+        "pagination",
+        "db"
+    ],
+    "support": {
+        "docs": "https://docs.laminas.dev/laminas-laminas-paginator-adapter-db/",
+        "issues": "https://github.com/laminas/laminas-laminas-paginator-adapter-db/issues",
+        "source": "https://github.com/laminas/laminas-laminas-paginator-adapter-db",
+        "rss": "https://github.com/laminas/laminas-laminas-paginator-adapter-db/releases.atom",
+        "forum": "https://discourse.laminas.dev/"
+    },
+    "require": {
+        "php": "^7.3 || ~8.0.0",
+        "laminas/laminas-db": "^2.12",
+        "laminas/laminas-paginator": "^2.10"
+    },
+    "require-dev": {
+        "laminas/laminas-coding-standard": "~2.1.4",
+        "phpunit/phpunit": "^9.3",
+        "psalm/plugin-phpunit": "^0.15.1",
+        "vimeo/psalm": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laminas\\Paginator\\Adapter\\LaminasDb\\": "src//"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LaminasTest\\Paginator\\Adapter\\LaminasDb\\": "test/"
+        }
+    },
+    "extra": {
+        "laminas": {
+            "component": "Laminas\\Paginator\\Adapter\\LaminasDb",
+            "config-provider": "Laminas\\Paginator\\Adapter\\LaminasDb\\ConfigProvider"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "scripts": {
+        "cs-check": "phpcs",
+        "cs-fix": "phpcbf",
+        "static-analysis": "psalm --shepherd --stats",
+        "test": "phpunit --colors=always",
+        "test-coverage": "phpunit --colors=always --coverage-clover clover.xml"
+    }
+}

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files psalm-version="4.6.1@e93e532e4eaad6d68c4d7b606853800eaceccc72">
+  <file src="src/DbSelect.php">
+    <DocblockTypeContradiction occurrences="1">
+      <code>$adapterOrSqlObject instanceof Sql</code>
+    </DocblockTypeContradiction>
+    <MixedArgument occurrences="1">
+      <code>$row</code>
+    </MixedArgument>
+    <MixedAssignment occurrences="1">
+      <code>$row</code>
+    </MixedAssignment>
+    <PropertyNotSetInConstructor occurrences="1">
+      <code>$rowCount</code>
+    </PropertyNotSetInConstructor>
+    <PropertyTypeCoercion occurrences="1">
+      <code>$resultSetPrototype ?: new ResultSet()</code>
+    </PropertyTypeCoercion>
+    <RedundantConditionGivenDocblockType occurrences="1">
+      <code>$this-&gt;rowCount !== null</code>
+    </RedundantConditionGivenDocblockType>
+  </file>
+  <file src="src/DbSelectFactory.php">
+    <InvalidStringClass occurrences="1"/>
+    <LessSpecificReturnStatement occurrences="1"/>
+    <MissingDependency occurrences="1">
+      <code>Exception\ServiceNotCreatedException</code>
+    </MissingDependency>
+    <MoreSpecificReturnType occurrences="1">
+      <code>DbSelect</code>
+    </MoreSpecificReturnType>
+  </file>
+  <file src="src/DbTableGateway.php">
+    <MixedArgument occurrences="1">
+      <code>$select</code>
+    </MixedArgument>
+    <MixedAssignment occurrences="1">
+      <code>$select</code>
+    </MixedAssignment>
+    <MixedMethodCall occurrences="4">
+      <code>group</code>
+      <code>having</code>
+      <code>order</code>
+      <code>where</code>
+    </MixedMethodCall>
+    <PropertyNotSetInConstructor occurrences="1">
+      <code>DbTableGateway</code>
+    </PropertyNotSetInConstructor>
+  </file>
+  <file src="src/DbTableGatewayFactory.php">
+    <InvalidStringClass occurrences="1"/>
+    <LessSpecificReturnStatement occurrences="1"/>
+    <MissingDependency occurrences="1">
+      <code>Exception\ServiceNotCreatedException</code>
+    </MissingDependency>
+    <MoreSpecificReturnType occurrences="1">
+      <code>DbTableGateway</code>
+    </MoreSpecificReturnType>
+  </file>
+  <file src="src/Exception/ServiceNotCreatedException.php">
+    <MissingDependency occurrences="1">
+      <code>ExceptionInterface</code>
+    </MissingDependency>
+  </file>
+  <file src="test/DbSelectTest.php">
+    <DeprecatedMethod occurrences="1">
+      <code>setMethods</code>
+    </DeprecatedMethod>
+    <InternalMethod occurrences="1">
+      <code>getArrayCopy</code>
+    </InternalMethod>
+    <MissingReturnType occurrences="7">
+      <code>testCount</code>
+      <code>testCountQueryWithLowerColumnNameShouldReturnValidResult</code>
+      <code>testCountQueryWithMissingColumnNameShouldRaiseException</code>
+      <code>testCustomCount</code>
+      <code>testGetArrayCopyShouldContainSelectItems</code>
+      <code>testGetItems</code>
+      <code>testReturnValueIsArray</code>
+    </MissingReturnType>
+    <MixedMethodCall occurrences="13">
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>will</code>
+      <code>will</code>
+      <code>will</code>
+      <code>will</code>
+      <code>with</code>
+      <code>with</code>
+    </MixedMethodCall>
+    <PossiblyInvalidArgument occurrences="10">
+      <code>$this-&gt;mockSelect</code>
+      <code>$this-&gt;mockSelect</code>
+      <code>$this-&gt;mockSelect</code>
+      <code>$this-&gt;mockSelect</code>
+      <code>$this-&gt;mockSelectCount</code>
+      <code>$this-&gt;mockSelectCount</code>
+      <code>$this-&gt;mockSql</code>
+      <code>$this-&gt;mockSql</code>
+      <code>$this-&gt;mockSql</code>
+      <code>$this-&gt;mockSql</code>
+    </PossiblyInvalidArgument>
+    <PossiblyUndefinedMethod occurrences="7">
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+    </PossiblyUndefinedMethod>
+  </file>
+  <file src="test/DbTableGatewayTest.php">
+    <MissingReturnType occurrences="5">
+      <code>testCount</code>
+      <code>testGetItems</code>
+      <code>testGetItemsWithWhereAndOrder</code>
+      <code>testGetItemsWithWhereAndOrderAndGroup</code>
+      <code>testGetItemsWithWhereAndOrderAndGroupAndHaving</code>
+    </MissingReturnType>
+    <MixedMethodCall occurrences="14">
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>method</code>
+      <code>will</code>
+      <code>will</code>
+      <code>will</code>
+      <code>will</code>
+      <code>will</code>
+      <code>with</code>
+      <code>with</code>
+    </MixedMethodCall>
+    <PossiblyInvalidArgument occurrences="5">
+      <code>$this-&gt;mockTableGateway</code>
+      <code>$this-&gt;mockTableGateway</code>
+      <code>$this-&gt;mockTableGateway</code>
+      <code>$this-&gt;mockTableGateway</code>
+      <code>$this-&gt;mockTableGateway</code>
+    </PossiblyInvalidArgument>
+    <PossiblyUndefinedMethod occurrences="7">
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+      <code>expects</code>
+    </PossiblyUndefinedMethod>
+  </file>
+</files>

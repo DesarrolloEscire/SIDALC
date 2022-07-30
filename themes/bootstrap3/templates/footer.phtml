@@ -1,0 +1,64 @@
+<div class="container">
+  <div class="info_index">
+    <?=$this->context($this)->renderInContext("search/infosearch.phtml", ['ignoreHiddenFilterMemory' => true])?>
+  </div>
+</div>
+
+<footer class="info-footer hidden-print">
+
+
+
+  <div class="footer-container">
+    <div class="footer-column">
+        <div class="divs-footer">
+          <img src="/vufind/themes/bootstrap3/images/footer-icon-tree.png" alt="SIDALC" >
+        </div>
+    </div>
+    <div class="footer-column">
+        <div class="divs-footer">
+          <ul>
+            <li>
+              <a href="<?=$this->url('content-page', ['page' => 'sidalc']) ?>">Sobre SIDALC</a>
+            </li>
+            <li>
+              <a href="<?=$this->url('content-page', ['page' => 'countries']) ?>">Países participantes</a>
+            </li>
+            <li>
+              <a href="<?=$this->url('content-page', ['page' => 'directory']) ?>">Directorio de Bibliotecas</a>
+            </li>
+          </ul>
+          
+        </div>
+    </div>
+    <div class="footer-column">
+      <div class="divs-footer">
+        <ul>
+          <li>
+            <li><a href="<?=$this->url('content-page', ['page' => 'specialized']) ?>">Recursos especializados</a></li>
+          </li>
+          <li>
+            <a href="<?=$this->url('content-page', ['page' => 'knowledge']) ?>">Recursos de conocimiento</a>
+          </li>
+          <li>
+            <a href="#">Estadísticas</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="footer-column">
+      <div class="divs-footer">
+          <ul>
+            <li><a href="#">Únase (form)</a></li>
+            <li>
+            <a href="<?=$this->url('content-page', ['page' => 'frequently_asked']) ?>"><?=$this->transEsc('FAQs')?></a>
+            </li>
+            <li><a href="#">Contacto (form)</a></li>
+          </ul>
+      </div>
+    </div>
+  </div>
+  <div class="poweredby">
+    <?=$this->layout()->poweredBy ?>
+  </div>
+</footer>

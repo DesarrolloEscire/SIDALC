@@ -1,0 +1,639 @@
+2022-03-09 15:49:00,425 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,427 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,429 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,432 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,433 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,435 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,437 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,440 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,442 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,444 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,446 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,448 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,451 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,452 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,454 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,456 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,457 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,458 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,460 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,462 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,463 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,465 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,467 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,469 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Corrección.
+2022-03-09 15:49:00,544 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Corrección.
+2022-03-09 15:49:00,547 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Corrección.
+2022-03-09 15:49:00,548 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,550 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,552 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,553 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,555 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,556 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,558 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,559 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,560 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,562 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,563 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,564 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,565 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,566 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,567 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,568 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,569 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:00,570 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:00,571 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:00,572 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,573 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:00,574 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:00,574 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:00,575 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:00,576 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:00,576 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:00,577 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:00,578 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:00,578 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:00,580 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,581 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,582 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,583 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,584 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,585 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,586 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,586 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,587 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,588 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,590 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,591 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,592 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,593 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,594 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,595 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,596 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,597 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,598 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,599 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,600 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,601 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,602 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,603 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,604 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,606 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,607 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,607 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:00,608 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:00,608 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:00,609 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,610 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,611 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,612 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,613 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,614 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,615 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,616 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ilustador
+2022-03-09 15:49:00,617 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ilustador
+2022-03-09 15:49:00,617 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ilustador
+2022-03-09 15:49:00,618 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,619 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,620 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,621 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductora
+2022-03-09 15:49:00,621 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,622 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductor
+2022-03-09 15:49:00,623 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductor
+2022-03-09 15:49:00,624 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Traductor
+2022-03-09 15:49:00,625 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,625 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,627 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,628 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,629 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,630 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,631 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,632 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,633 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,634 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,634 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,635 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,636 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,637 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,638 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,639 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,640 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,641 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,642 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,643 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,643 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,644 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,645 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,646 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,647 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,648 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,649 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,650 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,651 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,652 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,653 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,654 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,655 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,655 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,656 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,657 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,658 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,659 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,660 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Directora y coordinadora.
+2022-03-09 15:49:00,661 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Directora y coordinadora.
+2022-03-09 15:49:00,661 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Directora y coordinadora.
+2022-03-09 15:49:00,661 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Directora y coordinadora.
+2022-03-09 15:49:00,662 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,663 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,663 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,664 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,665 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,666 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,666 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,667 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,668 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,669 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,669 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,670 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,671 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,671 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,672 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,673 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,673 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,673 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,674 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,674 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,675 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,676 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,676 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,677 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,678 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,678 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,678 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:00,679 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:00,679 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,043 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,044 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,044 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,044 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,044 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,045 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,045 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,046 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:01,046 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:01,047 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:01,047 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Asesor
+2022-03-09 15:49:01,047 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,048 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,049 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,051 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,052 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,053 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,054 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,055 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,056 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,056 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,057 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,058 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,058 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,059 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,060 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,061 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,062 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,063 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,064 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,064 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,065 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,066 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,067 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,068 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,068 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,069 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,070 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,071 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,072 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,072 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,073 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,073 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,074 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,075 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,075 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,076 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,076 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,077 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,078 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,078 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,079 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,080 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,081 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,081 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,082 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,082 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,083 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,083 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,084 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,085 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,085 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,086 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,087 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,087 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,088 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,088 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,089 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,090 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,091 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,091 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,092 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,093 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,093 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,094 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,094 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,095 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,095 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,096 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,097 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,097 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,098 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,098 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,104 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,104 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,105 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,105 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,106 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,112 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,112 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,113 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,155 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,156 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,157 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,157 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,172 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,172 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,173 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,174 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,192 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,193 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,194 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,206 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,207 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,227 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,228 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,229 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,243 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,244 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,244 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,245 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,264 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,265 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,265 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,268 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,291 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,293 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,331 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,333 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,333 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,346 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,347 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,348 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,356 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,357 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,357 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,358 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,360 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,363 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,364 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,376 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,377 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,377 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,378 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,378 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,396 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,396 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,397 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,397 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,405 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,406 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,407 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,408 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,425 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,426 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,426 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,432 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,433 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,433 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,434 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,436 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,452 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,452 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,453 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,453 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,455 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,456 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,469 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,470 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,471 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,472 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,473 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,475 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,476 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,480 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,488 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,489 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,494 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,494 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,495 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,496 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,528 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,530 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,543 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,554 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,555 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,556 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,566 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,566 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,574 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,592 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,593 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,594 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,594 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,595 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,601 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,602 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,603 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,603 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,604 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,605 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,606 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,607 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,608 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,612 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,613 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,614 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,615 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,617 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,620 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,621 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,622 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,623 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,624 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,628 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Oregon State Collage
+2022-03-09 15:49:01,646 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Oregon State Collage
+2022-03-09 15:49:01,647 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Oregon State Collage
+2022-03-09 15:49:01,648 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,650 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,651 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,656 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,657 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,658 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,659 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,661 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,662 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,692 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,694 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,702 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,703 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,704 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,704 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,705 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,706 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,712 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,716 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,721 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,723 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,727 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,728 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,732 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,736 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,744 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,744 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,748 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,751 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,754 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,760 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,761 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,769 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,771 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,772 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,773 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,775 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,778 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,779 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,780 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,784 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,785 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,786 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,790 [MarcReader-Thread] DEBUG MarcReader-Thread org.solrmarc.driver.MarcReaderThread - record read : null
+2022-03-09 15:49:01,874 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Responsable
+2022-03-09 15:49:01,875 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,876 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,877 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Responsable
+2022-03-09 15:49:01,878 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,878 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,879 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Responsable
+2022-03-09 15:49:01,880 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,881 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:01,929 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: prólogo
+2022-03-09 15:49:01,933 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: prólogo
+2022-03-09 15:49:01,936 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: prólogo
+2022-03-09 15:49:01,997 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:01,998 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,003 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,005 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,008 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,011 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,016 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: (comp.)
+2022-03-09 15:49:02,018 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:02,057 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:02,058 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:02,260 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:02,278 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:02,279 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:02,377 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: s.d.
+2022-03-09 15:49:02,379 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: s.d.
+2022-03-09 15:49:02,381 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: s.d.
+2022-03-09 15:49:02,384 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: s.d.
+2022-03-09 15:49:02,403 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Prof. Evaluador
+2022-03-09 15:49:02,404 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Prof. Evaluador
+2022-03-09 15:49:02,406 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Prof. Evaluador
+2022-03-09 15:49:02,412 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,414 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:02,416 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,418 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:02,424 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,427 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Co-orientador
+2022-03-09 15:49:02,431 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutora
+2022-03-09 15:49:02,432 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutora
+2022-03-09 15:49:02,434 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutora
+2022-03-09 15:49:02,438 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutor
+2022-03-09 15:49:02,440 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutor
+2022-03-09 15:49:02,442 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Tutor
+2022-03-09 15:49:02,445 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,452 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,453 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,456 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:02,458 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:02,460 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientadora
+2022-03-09 15:49:02,464 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,466 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,468 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,471 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,473 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,474 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Orientador
+2022-03-09 15:49:02,479 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,480 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,482 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,486 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,487 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,489 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor
+2022-03-09 15:49:02,494 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,496 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,497 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autora
+2022-03-09 15:49:02,500 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Miller, Kenton
+2022-03-09 15:49:02,501 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Miller, Kenton
+2022-03-09 15:49:02,503 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Miller, Kenton
+2022-03-09 15:49:02,506 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Miller, Kenton
+2022-03-09 15:49:02,538 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,540 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,541 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,544 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,547 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,548 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,550 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: ed.
+2022-03-09 15:49:02,555 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,557 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,575 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,577 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,613 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,626 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:02,633 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,271 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,288 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,289 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,296 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,326 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ingeniero Agronomo.
+2022-03-09 15:49:03,330 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ingeniero Agronomo.
+2022-03-09 15:49:03,332 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ingeniero Agronomo.
+2022-03-09 15:49:03,339 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Ingeniero Agronomo.
+2022-03-09 15:49:03,587 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,599 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,600 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,611 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,612 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,616 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,618 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,622 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,627 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,629 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:03,720 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:03,723 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:03,726 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:03,734 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,735 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,748 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,750 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,784 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,790 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,791 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,798 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,803 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,820 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,825 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,830 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,836 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,840 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,848 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,852 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,861 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,868 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,872 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,881 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,892 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,902 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,911 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,918 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,921 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,932 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,933 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,938 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,956 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,957 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:03,964 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:03,968 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,974 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,977 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:03,980 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,015 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,059 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,060 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,062 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,075 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,084 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,085 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,100 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,152 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,155 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: edit.
+2022-03-09 15:49:04,210 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,223 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,225 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,227 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,232 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,275 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,277 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,287 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,289 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,300 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,329 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:04,341 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:04,344 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:04,350 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,369 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,371 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,376 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,395 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,404 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,417 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,438 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,457 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,464 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Coordinador
+2022-03-09 15:49:04,654 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:04,661 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:04,663 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:04,710 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,739 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,744 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,756 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: coord.
+2022-03-09 15:49:04,858 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:04,892 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:04,896 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:05,501 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor.
+2022-03-09 15:49:05,509 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor.
+2022-03-09 15:49:05,519 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Autor.
+2022-03-09 15:49:05,839 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: comp.
+2022-03-09 15:49:05,855 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: comp.
+2022-03-09 15:49:05,856 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: comp.
+2022-03-09 15:49:05,864 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: comp.
+2022-03-09 15:49:05,889 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:05,900 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:05,901 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:05,907 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,911 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,916 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,920 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,925 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,927 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,975 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,982 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,984 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Organizador
+2022-03-09 15:49:05,991 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Colaborador
+2022-03-09 15:49:06,078 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Compilador
+2022-03-09 15:49:06,104 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Compilador
+2022-03-09 15:49:06,116 [RecordIndexer-Thread-0] INFO  RecordIndexer-Thread-0 org.vufind.index.CreatorTools - Unknown relator: Compilador
+2022-03-09 15:49:06,322 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - Exception in record: null
+2022-03-09 15:49:06,328 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - while processing index specification:  custom, getFormats, format_map.properties, unique
+2022-03-09 15:49:06,329 [RecordIndexer-Thread-0] WARN  RecordIndexer-Thread-0 org.solrmarc.driver.Indexer - java.lang.NullPointerException
+2022-03-09 15:49:06,377 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done with all indexing, finishing writing records to solr
+2022-03-09 15:49:17,763 [main] INFO  main org.solrmarc.driver.ThreadedIndexer - Done writing records to solr
+2022-03-09 15:49:18,085 [main] INFO  main org.solrmarc.driver.Indexer - Commmiting updates to Solr
+2022-03-09 15:49:37,345 [main] INFO  main org.solrmarc.driver.IndexDriver - 16433 records read
+2022-03-09 15:49:37,346 [main] INFO  main org.solrmarc.driver.IndexDriver - 16433 records indexed  and 
+2022-03-09 15:49:37,407 [main] INFO  main org.solrmarc.driver.IndexDriver - 16433 records sent to Solr in 4 minutes 8.53 seconds

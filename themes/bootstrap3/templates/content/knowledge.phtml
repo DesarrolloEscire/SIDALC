@@ -1,0 +1,78 @@
+    
+<?php
+$urlresources="http://localhost:8983/solr/biblio/select?facet.field=component&df=component&distrib=false&f.component.facet.mincount=1&fl=uid&start=0&fsv=true&f.component.facet.limit=-1&facet=true&indent=true&q.op=OR&q=*%3A*&wt=json";
+$contentresources = file_get_contents($urlresources);
+$objectresources = json_decode($contentresources, true, \JSON_UNESCAPED_UNICODE);
+$resources = $objectresources['facet_counts']['facet_fields']['component'];
+$totalInst = 0; $countries = array(['Country']); $cont = 0; $resourcesTotal = new stdClass(); $class=""; 
+foreach($institution as $inst)
+{
+  if(is_string($inst))
+  $totalInst++;
+}
+
+foreach($objetocountry as $contr)
+{
+  if(is_string($contr))
+  array_push($countries, array($contr)); 
+}
+$countries=array_unique($countries, SORT_REGULAR);
+
+foreach ($resources as $r){
+  if (is_string($r))
+  {
+    $name =$r;
+  } elseif(is_integer($r)){
+    $resourcesTotal->$name=$r;
+  }
+
+}
+
+switch (count($resources)/2) {
+  case '2':
+    $class="6";
+    break;
+  case '3':
+    $class="4";
+    break;
+  case '4':
+    $class="3";
+    break;
+  case '5':
+    $class="2";
+    break;
+  
+  default:
+    $class="12";
+    break;
+}
+
+
+?>
+<div class="specialized-banner">
+    <?=$this->render('header.phtml')?>
+</div>
+<div class="specialized-title">
+    <h2>Recursos de conocimiento</h2>
+</div>
+<div id="knowledge">
+  <div class="row col-md-12">
+    <div class="resources">
+      <div class="row">
+      <?php $i=0; foreach ($resourcesTotal as $key=>$number): ?>
+        <div class="col-lg-<?=$class?>">
+          <a href="http://192.168.100.136/vufind/Search/Results?type=AllFields&filter%5B%5D=component%3A%22<?=$key?>">
+            <h3><?=$key?></h3>
+            <h2 class="number"><?=$number?></h2>     
+          </a> 
+        </div>
+      <?php $i++; endforeach; ?>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+

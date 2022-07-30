@@ -1,0 +1,60 @@
+<?php
+$urlcountry="http://localhost:8983/solr/biblio/select?facet.field=country&df=country&distrib=false&f.country.facet.mincount=1&fl=uid&start=0&fsv=true&f.country.facet.limit=-1&facet=true&indent=true&q=*%3A*&wt=json"; 
+$urlregion="http://localhost:8983/solr/biblio/select?facet.field=region&df=region&distrib=false&f.region.facet.mincount=1&fl=uid&start=0&fsv=true&f.region.facet.limit=-1&facet=true&indent=true&q=*%3A*&wt=json"; 
+$contentcountry = file_get_contents($urlcountry);
+$contentregion = file_get_contents($urlregion);
+$objetocountry = json_decode($contentcountry, true);
+$objetoregion = json_decode($contentregion, true);
+$objetocountry = $objetocountry['facet_counts']['facet_fields']['country'];
+$objetoregion = $objetoregion['facet_counts']['facet_fields']['region'];
+$countries = array(); $regions = array(); 
+
+
+foreach($objetocountry as $contr)
+{
+  if(is_string($contr))
+  array_push($countries, $contr); 
+}
+$countries=array_unique($countries, SORT_REGULAR);
+foreach($objetoregion as $reg)
+{
+  if(is_string($reg))
+  array_push($regions, $reg); 
+}
+$regions=array_unique($regions, SORT_REGULAR);
+
+
+
+?>
+
+<div class="specialized-banner">
+    <?=$this->render('header.phtml')?>
+</div>
+<div class="specialized-title">
+    <h2>Países participantes</h2>
+</div>
+<div id="countries">
+  <div class="region-country">
+    <div class="region">
+        <h3><a>Región</a></h3>
+        <?php $i=0; foreach ($regions as $reg): ?>
+          <div class="col-md-2">     
+            <a href="/vufind/Search/Results?type=AllFields&filter%5B%5D=region%3A<?=$reg?>"><?=$reg?></a>
+          </div>
+        <?php $i++; endforeach; ?>
+      </div>
+      <div class="countries">
+        <h3><a>Países</a></h3>
+        <?php $i=0; foreach ($countries as $con): ?>
+          <div class="col-md-2">     
+            <a href="/vufind/Search/Results?type=AllFields&filter%5B%5D=country%3A<?=$con?>"><?=$con?></a>
+          </div>
+        <?php $i++; endforeach; ?>
+      </div>
+  </div>
+</div>
+
+
+
+
+

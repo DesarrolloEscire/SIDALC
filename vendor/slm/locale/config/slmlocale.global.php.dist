@@ -1,0 +1,54 @@
+<?php
+/**
+ * SlmLocale Configuration
+ *
+ * If you have a ./config/autoload/ directory set up for your project, you can
+ * drop this config file in it and change the values as you wish.
+ */
+$settings = [
+    /**
+     * Default locale
+     *
+     * Some good description here. Default is something
+     *
+     * Accepted is something else
+     */
+    //'default' => 'nl-NL',
+
+    /**
+     * Supported locales
+     *
+     * Some good description here. Default is something
+     *
+     * Accepted is something else
+     */
+    //'supported' => ['en-US', 'en-GB'],
+    
+    /**
+     * Locale mappings
+     *
+     * An array of mappings to apply where the indexes correspond to the 
+     * detected locale, and the values to the locale to map it to.
+     */
+    //'mappings' => ['en' => 'en-US', 'fr' => 'fr_FR'],
+
+    /**
+     * Strategies
+     *
+     * Some good description here. Default is something
+     *
+     * Accepted is something else
+     */
+    //'strategies' => [],
+
+    /**
+     * End of SlmLocale configuration
+     */
+];
+
+/**
+ * You do not need to edit below this line
+ */
+return [
+    'slm_locale' => $settings
+];
